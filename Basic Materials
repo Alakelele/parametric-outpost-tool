@@ -1,0 +1,19 @@
+Numero	Material Name	Conductivity (W/K/m)	Specific heat (J/K/kg)	Density (kg/m3)
+1	Aluminium 6061	167	940	2700
+2	Copper	401	376	8940
+3	Brass	130	401	8400
+4	Rogers 4350 B	0.62	1200	1860
+5	Heat pipe	10000	70	3000
+6	Teflon	0.25	970	2200
+7	FR4	0.25	950	1850
+8	Silicon	148	700	2329
+9	Zerodur	1.65	821	2530
+
+Letters	Materials coating	Emissivity (Epsilon)	Absorptivity (Alpha)
+A	White Paint	0.81	0.25
+B	Black Paint	0.9	0.95
+C	White Paint Chemglaze A276	0.88	0.28
+D	Gold Paint	0.02	0.19
+E	SunCell	0.82	0.74
+F	Kapton	0.78	0.57
+
